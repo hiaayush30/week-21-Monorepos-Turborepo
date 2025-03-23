@@ -1,3 +1,7 @@
+- docs and web are 2 next js app (one for websote and one for documentation) by default
+- then there are packages like ts-config (default tsconfig for projects)
+
+
 # Turborepo starter
 
 This Turborepo starter is maintained by the Turborepo core team.
